@@ -5,7 +5,7 @@ I am a graduate student at Northeastern University, currently pursuing Masters i
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bharadwaj-k-h/)
 
-[![Gmail](https://img.shields.io/badge/Email-akshaybharadwaj456%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akshaybharadwaj456@gmail.com)
+[![Gmail](https://img.shields.io/badge/-akshaybharadwaj456%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akshaybharadwaj456@gmail.com)
 
 ## Skills 
 
