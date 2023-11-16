@@ -1,7 +1,7 @@
 # Akshay Bharadwaj
 
 Hi there,
-I am a graduate student at Northeastern University, currently pursuing Masters in Software Engineering Systems. As an AI/ML enthusiast I like to work on projects in the areas of Algorithmic Trading, NLP, Computer Vision, and Generative AI. Feel free to contact me if you have similar interests.
+I am a graduate student at Northeastern University, currently pursuing Master of Science in Software Engineering Systems. As an AI/ML enthusiast I like to work on projects in the areas of Algorithmic Trading, NLP, Computer Vision, and Generative AI. Feel free to contact me if you have similar interests.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bharadwaj-k-h/)
 
