@@ -27,7 +27,7 @@ I am a graduate student at Northeastern University, currently pursuing Master of
 
 [![RASA](https://img.shields.io/badge/RASA-1A1A1A?style=flat&logo=RASA&logoColor=white)](https://rasa.com/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png | width=10)
+![TensorFlow]<img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow Icon" width="100"/>
 [![H2O AutoML](https://img.shields.io/badge/H2O%20AutoML-00AEEF?style=flat&logo=h2o.ai&logoColor=white)](https://www.h2o.ai/)
 [![RShiny](https://img.shields.io/badge/RShiny-006699?style=flat&logo=R&logoColor=white)](https://shiny.rstudio.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
