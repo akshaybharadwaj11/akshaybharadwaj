@@ -1,7 +1,7 @@
 # Akshay Bharadwaj
 
 Hi there,
-I am a graduate student at Northeastern University, currently pursuing Master of Science in Software Engineering Systems. 
+I am a graduate student at Northeastern University, currently pursuing Master of Science in Software Engineering Systems. I'm passionate about building Intelligent Systems leveraging AI/ML technologies.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-bharadwaj-k-h/)
 
@@ -26,8 +26,8 @@ I am a graduate student at Northeastern University, currently pursuing Master of
 **Frameworks:**  
 
 [![RASA](https://img.shields.io/badge/RASA-1A1A1A?style=flat&logo=RASA&logoColor=white)](https://rasa.com/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png)
 [![H2O AutoML](https://img.shields.io/badge/H2O%20AutoML-00AEEF?style=flat&logo=h2o.ai&logoColor=white)](https://www.h2o.ai/)
 [![RShiny](https://img.shields.io/badge/RShiny-006699?style=flat&logo=R&logoColor=white)](https://shiny.rstudio.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
