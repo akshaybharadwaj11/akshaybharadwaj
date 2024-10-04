@@ -29,7 +29,7 @@
    - Generated spectrograms from EEG data and trained a **ResNet-50** model using transfer learning.
 
 ### 📫 Connect with Me!
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/akshay-bharadwaj)
+- **LinkedIn**: [Akshay Bharadwaj](https://www.linkedin.com/in/akshay-bharadwaj)
 - **Email**: [akshaybharadwaj456@gmail.com]
 
 I enjoy applying AI to **novel problems** and exploring **autonomous systems**, always excited to tackle new challenges and **collaborate** on impactful projects.
