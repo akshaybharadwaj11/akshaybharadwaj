@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Akshay Bharadwaj!
 
-🚀 **Machine Learning Enthusiast** | 🎓 Graduate Student @ Northeastern University | 🤖 **AI Researcher** 
+🚀 **Machine Learning Enthusiast** | 🎓 Graduate Student @ Northeastern University | 🤖 **Graduate Research Assistant** 
 
 ---
 
