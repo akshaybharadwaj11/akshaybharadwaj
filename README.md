@@ -6,9 +6,8 @@
 
 ### 💡 About Me
 - 🔬 Currently working on **autonomous driving research** focusing on multi-task learning for perception tasks.
-- 🤖 Passionate about **Machine Learning**, **NLP**, and **Computer Vision**.
-- 📚 Experience in building **NLP** and **Computer Vision** projects such as **Semantic Search**, **Image Classification**, **3D Lane Line Detection**, and **Automated Stock Trading**.
-- 🏆 Winner in the **Diall Mental Health AI Hackathon**, built a **generative AI app** to assist therapists in assessing psychological conditions.
+- 📚 Experience in building **NLP** and **Computer Vision** projects such as **Conversational AI**, **Semantic Search**, **Image Classification**, **3D Lane Line Detection**, and **Automated Stock Trading**.
+- 🏆 Winner in the **Diall Mental Health AI Hackathon**, built a **generative AI app** to assist therapists in assessing psychological conditions of patients.
 
 ### 🌟 Skills
 - **Machine Learning**: PyTorch, TensorFlow, Scikit-Learn, Keras
